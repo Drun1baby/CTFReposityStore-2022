@@ -1,0 +1,57 @@
+2022/09/21-10:01:43 INFO  [main] com.jsh.erp.ErpApplication - Starting ErpApplication on LAPTOP-MSG46JEP with PID 19288 (started by VanHurts in C:\Users\VanHurts\OneDrive - microsoft\CTFReposityStore\2022蓝帽杯\复赛\source_8bc9995ea1d9adc9fa8ad3385c077fd4)
+2022/09/21-10:01:43 DEBUG [main] com.jsh.erp.ErpApplication - Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2022/09/21-10:01:43 INFO  [main] com.jsh.erp.ErpApplication - No active profile set, falling back to default profiles: default
+2022/09/21-10:01:54 ERROR [main] org.apache.catalina.core.StandardService - Failed to start connector [Connector[HTTP/1.1-80]]
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-80]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:255)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:197)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:300)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:162)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:388)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1234)
+	at com.jsh.erp.ErpApplication.main(ErpApplication.java:22)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1021)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 13 common frames omitted
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:461)
+	at sun.nio.ch.Net.bind(Net.java:453)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:222)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:85)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1150)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:591)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1018)
+	... 14 common frames omitted
+2022/09/21-10:01:54 ERROR [main] org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 80 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 80, or configure this application to listen on another port.
+
+2022/09/21-10:02:10 INFO  [main] com.jsh.erp.ErpApplication - Starting ErpApplication on LAPTOP-MSG46JEP with PID 19820 (started by VanHurts in C:\Users\VanHurts\OneDrive - microsoft\CTFReposityStore\2022蓝帽杯\复赛\source_8bc9995ea1d9adc9fa8ad3385c077fd4)
+2022/09/21-10:02:10 DEBUG [main] com.jsh.erp.ErpApplication - Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2022/09/21-10:02:10 INFO  [main] com.jsh.erp.ErpApplication - No active profile set, falling back to default profiles: default
+2022/09/21-10:02:16 INFO  [main] com.jsh.erp.ErpApplication - Started ErpApplication in 6.365 seconds (JVM running for 7.937)
+2022/09/21-10:03:36 INFO  [http-nio-8081-exec-6] com.jsh.erp.controller.UserController - ============用户登录 login 方法调用开始==============
+2022/09/21-10:03:36 DEBUG [http-nio-8081-exec-6] com.jsh.erp.datasource.mappers.UserMapper.selectByExample - ==>  Preparing: SELECT id, username, login_name, password, position, department, email, phonenum, ismanager, isystem, Status, description, remark, tenant_id FROM jsh_user WHERE (login_name = ? AND Status = ?) 
+2022/09/21-10:03:36 DEBUG [http-nio-8081-exec-6] com.jsh.erp.datasource.mappers.UserMapper.selectByExample - ==> Parameters: 1 ' or '1'='1(String), 0(Byte)
+2022/09/21-10:03:36 DEBUG [http-nio-8081-exec-6] com.jsh.erp.datasource.mappers.UserMapper.selectByExample - <==      Total: 0
+2022/09/21-10:03:36 INFO  [http-nio-8081-exec-6] com.jsh.erp.controller.UserController - ===============用户登录 login 方法调用结束===============
