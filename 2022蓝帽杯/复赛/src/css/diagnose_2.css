@@ -1,0 +1,181 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(120, 241, 224, 0.12);
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAADklEQVQIW2NgQAXGZHAAGioAza6+Hk0AAAAASUVORK5CYII=);
+
+}
+
+.select_box{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #7fb5a9;
+    width: 50%;
+    height: 50px;
+    border-radius: 8px;
+    box-shadow:
+  3.4px 3.2px 2.2px rgba(0, 0, 0, 0.02),
+  8.1px 7.7px 5.3px rgba(0, 0, 0, 0.029),
+  15.3px 14.5px 10px rgba(0, 0, 0, 0.036),
+  27.4px 26.1px 17.9px rgba(0, 0, 0, 0.043),
+  51.7px 49.2px 33.4px rgba(0, 0, 0, 0.052),
+  121px 115px 80px rgba(0, 0, 0, 0.07)
+;
+
+}
+
+.choose{
+    margin-right: 6%;  
+    background:#fafdfe;  
+    height:28px;  
+    width:180px;  
+    line-height:28px;  
+    border:1px solid #9bc0dd;  
+    -moz-border-radius:2px;  
+    -webkit-border-radius:2px;  
+    border-radius:2px;  
+}
+
+button { 
+	width: 100px; /* 宽度 */
+	height: 40px; /* 高度 */
+	border-width: 0px; /* 边框宽度 */
+	border-radius: 3px; /* 边框半径 */
+	background: #1E90FF; /* 背景颜色 */
+	cursor: pointer; /* 鼠标移入按钮范围时出现手势 */
+	outline: none; /* 不显示轮廓线 */
+	font-family: Microsoft YaHei; /* 设置字体 */
+	color: white; /* 字体颜色 */
+	font-size: 17px; /* 字体大小 */
+}
+button:hover { /* 鼠标移入按钮范围时改变颜色 */
+	background: #5599FF;
+}
+
+.weekday-box {
+    width: 70%;
+    height: 60px;
+    background-color: #8fcf94;
+    margin-top: 60px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nowaday-card {
+    width: 19%;
+    height: 50px;
+    border-width: 2px;
+    background-color: #19747a;
+    border-color: #29ad93;
+    margin-right: 1%;
+    border-radius: 5px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.schedule {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    width: 70%;
+    height: 600px;
+    background-color: rgb(64, 103, 65);
+    margin-top: 10px;
+    border-radius: 10px;
+
+}
+
+.time_box {
+
+    margin-top: 15px;
+    flex-direction: column;
+    align-items: center;
+    height: 500px;
+    width: 17%;
+    background-color: #29ad93;
+    margin-right: 20px;
+    border-radius: 15px;
+    overflow:scroll;
+}
+
+.person_card {
+    margin-top: 5px;
+    width: 90%;
+    height: 200px;
+    
+    border-radius: 10px;
+    overflow: auto;
+}
+
+.person_card:hover {
+    border-style: groove;
+    border-color: #31c1dd;
+    border-width: 5px;
+    
+}
+
+#name {
+    font-size: 6px;
+   
+    
+    width: 100%;
+    height: 10%;
+    text-align: center;
+    background-color: #859192;
+    
+}
+
+#position {
+    font-size: 6px;
+    margin-top: 0%;
+    text-align: center;
+    height: 10%;
+
+    width: 100%;
+    background-color: #687582;
+}
+
+#position_t {
+    font-size: 5px;
+    margin-top: 0%;
+    
+    height: 10%;
+    text-align: center;
+    width: 100%;
+    background-color: #4b6178;
+}
+
+#des {
+    font-size: 6px;
+    
+    
+    height: 50%;
+    
+    width: 100%;
+    background-color: #3e464d;
+    overflow: auto;
+}
+
+#img_card {
+    width:auto;
+    object-fit: cover;
+    height: 40%;
+    margin-left: 0%;
+    width: 100%;
+    background-color: #19747a;
+    border-radius: 80px;
+}
+
+::-webkit-scrollbar {
+
+    display: none; /* Chrome Safari */
+  
+  }

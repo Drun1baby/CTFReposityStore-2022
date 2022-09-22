@@ -1,4 +1,6 @@
-package Filter;
+package com.jsh.erp.filter;
+
+import org.springframework.stereotype.Component;
 
 import javax.servlet.*;
 import javax.servlet.annotation.WebFilter;
@@ -7,7 +9,13 @@ import javax.servlet.http.HttpServletRequestWrapper;
 import java.io.IOException;
 import java.util.List;
 
+/**
+ @ author: Drunkbaby
+ @ usages: 用于 XSS 的自定义防护
+ */
 
+@Component
+@WebFilter(urlPatterns = "/*", filterName = "2")
 public class XSSFilter implements Filter {
 
     FilterConfig filterConfig = null;
@@ -80,6 +88,12 @@ class XssHttpServletRequestWrapper extends HttpServletRequestWrapper {
         value = value.replaceAll("eval\\((.*)\\)", "");
         value = value.replaceAll("[\\\"\\\'][\\s]*javascript:(.*)[\\\"\\\']", "\"\"");
         value = value.replaceAll("script", "");
+        value = value.replaceAll("../", "");
+        value = value.replaceAll("select", "");
+        value = value.replaceAll("and", "");
+        value = value.replaceAll("union", "");
+        value = value.replaceAll("sleep", "");
+        value = value.replaceAll("floor", "");
         return value;
     }
 }

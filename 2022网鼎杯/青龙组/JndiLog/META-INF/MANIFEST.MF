@@ -1,0 +1,43 @@
+Manifest-Version: 1.0
+Implementation-Title: JndiLog
+Implementation-Version: 1.0-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: 123qwer
+Implementation-Vendor-Id: org.example
+Class-Path: lib/spring-boot-starter-web-1.5.2.RELEASE.jar lib/spring-b
+ oot-starter-1.5.2.RELEASE.jar lib/spring-boot-1.5.2.RELEASE.jar lib/s
+ pring-boot-autoconfigure-1.5.2.RELEASE.jar lib/spring-boot-starter-lo
+ gging-1.5.2.RELEASE.jar lib/logback-classic-1.1.11.jar lib/logback-co
+ re-1.1.11.jar lib/jul-to-slf4j-1.7.24.jar lib/log4j-over-slf4j-1.7.24
+ .jar lib/spring-core-4.3.7.RELEASE.jar lib/snakeyaml-1.17.jar lib/spr
+ ing-boot-starter-tomcat-1.5.2.RELEASE.jar lib/tomcat-embed-core-8.5.1
+ 1.jar lib/tomcat-embed-el-8.5.11.jar lib/tomcat-embed-websocket-8.5.1
+ 1.jar lib/hibernate-validator-5.3.4.Final.jar lib/validation-api-1.1.
+ 0.Final.jar lib/jboss-logging-3.3.0.Final.jar lib/classmate-1.3.3.jar
+  lib/jackson-databind-2.8.7.jar lib/jackson-annotations-2.8.0.jar lib
+ /jackson-core-2.8.7.jar lib/spring-web-4.3.7.RELEASE.jar lib/spring-a
+ op-4.3.7.RELEASE.jar lib/spring-beans-4.3.7.RELEASE.jar lib/spring-co
+ ntext-4.3.7.RELEASE.jar lib/spring-webmvc-4.3.7.RELEASE.jar lib/sprin
+ g-expression-4.3.7.RELEASE.jar lib/springapp-0.2.3.jar lib/jsr305-asp
+ ectj-validation-0.2.3.jar lib/jsr305-3.0.0.jar lib/aspectjrt-1.8.9.ja
+ r lib/springtools-0.2.3.jar lib/typetools-0.2.3.jar lib/reflection-0.
+ 2.3.jar lib/guava-18.0.jar lib/commons-lang3-3.4.jar lib/joda-time-2.
+ 9.7.jar lib/jcip-annotations-1.0.jar lib/typetools-json-0.2.3.jar lib
+ /jackson-datatype-joda-2.8.7.jar lib/jcl-over-slf4j-1.7.24.jar lib/ja
+ vax.inject-1.jar lib/apptools-0.2.3.jar lib/slf4j-logging-0.2.3.jar l
+ ib/xbean-finder-3.16.jar lib/xbean-bundleutils-3.16.jar lib/xbean-asm
+ -util-3.16.jar lib/mysql-connector-java-8.0.12.jar lib/protobuf-java-
+ 2.6.0.jar lib/log4j-slf4j-impl-2.11.1.jar lib/slf4j-api-1.7.24.jar li
+ b/log4j-api-2.7.jar lib/log4j-core-2.7.jar lib/commons-collections-3.
+ 2.2.jar lib/aspectjweaver-1.9.2.jar
+version: 1.0-SNAPSHOT
+Spring-Boot-Version: 1.5.2.RELEASE
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: org.example.App
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_301
+Implementation-URL: http://projects.spring.io/spring-boot/JndiLog/
+

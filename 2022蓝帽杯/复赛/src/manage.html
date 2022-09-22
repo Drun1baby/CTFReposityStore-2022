@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> 管理界面</title>
+<meta name="viewport" content="width=device-width,
+         initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+         <link rel="stylesheet", href="./css/manage.css">
+</head>
+<body>
+
+    
+
+
+<div id = "box"class="container" >
+    <button class="btn" onclick="add()">添加医生信息</button>
+    <form id="add_form" action="manage.php" method="post" enctype="multipart/form-data" >
+        用户名：&nbsp&nbsp  <input type="text" name="username"><br/>
+        医生介绍：<input type="text" name="info"><br/>
+        名字： &nbsp &nbsp  &nbsp <input type="text" name="name"><br/>
+        身份证号：<input type="text" name="idcard"><br/>
+        手机号：&nbsp &nbsp<input type="text" name="phone"><br/>
+        值班时间：<input type="text" name="worktime"><br/>
+        头像：&nbsp &nbsp &nbsp  &nbsp<input type="file" name="file"><br/>
+        专业：&nbsp &nbsp &nbsp  &nbsp<input type="text" name="special"><br/>
+        等级：&nbsp &nbsp &nbsp  &nbsp<input type="text" name="position"><br/>
+        密码：&nbsp &nbsp &nbsp  &nbsp<input type="password" name="password"><br/>
+        <input class="submit"  type="submit" name="submit1"  ><br/>
+    </form >
+
+</div>
+
+<div id = "box2" class="container"  >
+    <button class="btn" onclick="modify()">调整值班安排</button>
+    <form id ='modify_form' action="" method="post" enctype="multipart/form-data">
+    需要调整的医生用户名：<input type="text" name="username"><br/>
+    新的工作时间:&nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp<input type="text" name="newtime">
+    <br/>格式例如:1,14:00-15:00
+    <input class="submit" type="submit" name="submit2"><br/>
+</form>
+
+</div>
+
+<script>
+function add() {
+    var box = document.getElementById('box');
+    var form = document.getElementById('add_form');
+    box.style.height = "300px"
+    form.style.display = 'inline';
+}
+
+function modify() {
+    var box = document.getElementById('box2');
+    var form = document.getElementById('modify_form');
+    box.style.height = "300px"
+    form.style.display = 'inline';
+}
+
+
+</script>
+
+</body>
+
+
+</html>
