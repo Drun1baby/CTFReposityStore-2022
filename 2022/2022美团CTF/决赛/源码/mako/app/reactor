@@ -1,0 +1,13 @@
+<?php
+
+use mako\application\cli\Application;
+
+/**
+ * Include the application init file.
+ */
+include __DIR__ . '/init.php';
+
+/**
+ * Start and run the application.
+ */
+Application::start(MAKO_APPLICATION_PATH)->run();

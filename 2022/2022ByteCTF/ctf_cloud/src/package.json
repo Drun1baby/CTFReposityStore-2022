@@ -1,0 +1,15 @@
+{
+  "name": "nodetest",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "express": "~4.16.1",
+    "express-session": "^1.17.3",
+    "hbs": "~4.0.4",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "sqlite3": "^5.0.8",
+    "string-random": "^0.1.3"
+  }
+}

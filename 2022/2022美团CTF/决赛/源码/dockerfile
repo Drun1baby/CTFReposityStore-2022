@@ -1,0 +1,22 @@
+FROM ubuntu:20.04
+
+RUN sed -i s@/archive.ubuntu.com/@/mirrors.aliyun.com/@g /etc/apt/sources.list
+RUN sed -i s@/security.ubuntu.com/@/mirrors.aliyun.com/@g /etc/apt/sources.list
+RUN apt-get clean
+RUN apt-get update -y
+
+RUN apt-get -yqq install gcc
+RUN apt-get -yqq install nginx
+RUN apt-get -yqq install php7.4-fpm
+RUN apt-get install -yqq php7.4-mbstring php7.4-imagick
+
+COPY mako /var/www/mako
+COPY flag /flag
+COPY readFlag.c /readFlag.c
+COPY default /etc/nginx/sites-available/default
+COPY start.sh /start.sh
+
+RUN chmod +x /start.sh
+
+ENTRYPOINT /start.sh
+EXPOSE 80

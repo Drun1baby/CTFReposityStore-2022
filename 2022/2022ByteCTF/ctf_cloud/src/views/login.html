@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="utf-8">
+  <title>Welcome</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+<div class="content">
+  <form id="signin" class="form sign-in" >
+    <h2>欢迎回来</h2>
+    <label>
+      <span>用户名</span>
+      <input type="text" name="username"/>
+    </label>
+    <label>
+      <span>密码</span>
+      <input type="password" name="password" />
+    </label>
+    <button type="submit" class="submit">登 录</button>
+  </form>
+  <div class="sub-cont">
+    <div class="img">
+      <div class="img__text m--up">
+        <h2>还未注册？</h2>
+        <p>立即注册，快来入驻！</p>
+      </div>
+      <div class="img__text m--in">
+        <h2>已有帐号？</h2>
+        <p>那就快点登录吧！</p>
+      </div>
+      <div class="img__btn">
+        <span class="m--up">注 册</span>
+        <span class="m--in">登 录</span>
+      </div>
+    </div>
+    <form id="signup" class="form sign-up">
+      <h2>立即注册</h2>
+      <label>
+        <span>用户名</span>
+        <input type="text" name="username"/>
+      </label>
+      <label>
+        <span>密码</span>
+        <input type="password" name="password"/>
+      </label>
+      <button type="submit" class="submit">注 册</button>
+    </form>
+  </div>
+</div>
+
+<script src="/script.js"></script>
+
+<script>
+  var signin = document.getElementById('signin');
+  signin.onsubmit = function(e) {
+    e.preventDefault();
+    var username = signin.elements.username.value;
+    var password = signin.elements.password.value;
+    var xhr = new XMLHttpRequest();
+    xhr.open('POST', '/users/signin', true);
+    xhr.setRequestHeader('Content-Type', 'application/json');
+    xhr.send(JSON.stringify({
+      username: username,
+      password: password
+    }));
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState === 4) {
+        var data = JSON.parse(xhr.responseText);
+        if (data.code === 0) {
+          alert(data.message);
+          window.location.href = '/';
+        } else {
+          alert(data.message);
+        }
+      };
+    }
+  }
+  var signup = document.getElementById('signup');
+    signup.onsubmit = function(e) {
+        e.preventDefault();
+        var username = signup.elements.username.value;
+        var password = signup.elements.password.value;
+        var xhr = new XMLHttpRequest();
+        xhr.open('POST', '/users/signup', true);
+        xhr.setRequestHeader('Content-Type', 'application/json');
+        xhr.send(JSON.stringify({
+          username: username,
+          password: password
+        }));
+        xhr.onreadystatechange = function() {
+          if (xhr.readyState === 4) {
+              var data = JSON.parse(xhr.responseText);
+              if (data.code === 0) {
+                alert(data.message);
+                window.location.href = '/';
+              } else {
+                alert(data.message);
+              }
+          };
+        }
+    }
+</script>
+
+
+<div style="text-align:center;">
+</div>
+</body>
+
+</html>

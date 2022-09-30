@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>管理员登录</title>
+    <link th:href="@{/css/login.css}" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id='login-box'>
+    <h1>login</h1>
+    <p th:text="${msg}"></p>
+    <form th:action="@{/login}">
+        账号: <input th:type="text" name="username">
+        <br>
+        <br>
+        密码:  <input th:type="text" name="password">
+        <br>
+        <br>
+        <input th:type="submit" >
+    </form>
+</div>
+</body>
+</html>

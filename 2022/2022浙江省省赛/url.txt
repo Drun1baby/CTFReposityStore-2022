@@ -1,0 +1,7 @@
+PWN-Fruit sugar gourd-v2:1.14.97.218:24457
+WEB-ezphp: http://80.endpoint-d9deec0835844de5831e550ffe384d16.dasc.buuoj.cn:81
+PWN-Hodgepodge: http://80.endpoint-d9deec0835844de5831e550ffe384d16.dasc.buuoj.cn:81
+WEB-ezupload: http://80.endpoint-adff07ea0806451c90eb839004ec2eed.dasc.buuoj.cn:81
+PWN-GO-MAZE-v4: 1.14.97.218:28231
+WEB-babysql-v2: http://80.endpoint-376de2f27c244933b57999f74364ab79.dasc.buuoj.cn:81
+WEB-zip-question: http://80.endpoint-2425e6c91ba944d39da382281bc75636.dasc.buuoj.cn:81

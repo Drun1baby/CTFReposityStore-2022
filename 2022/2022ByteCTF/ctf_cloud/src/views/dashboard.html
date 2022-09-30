@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Dashboard
+    </title>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="css/shana_index.css" rel="stylesheet" media="screen">
+    <script src="jquery/jquery-3.3.1.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="http://labfile.oss.aliyuncs.com/html5shiv/3.7.0/html5shiv.js">
+    </script>
+    <script src="http://labfile.oss.aliyuncs.com/respond.js/1.3.0/respond.min.js">
+    </script>
+</head>
+
+<body>
+<nav class="navbar navbar-default navbar-static-top nav1">
+    <div class="container-fluid">
+        <div class="navbar-header ul-head0">
+            <button class="navbar-toggle collapsed" data-target=".navbar-collapse" data-toggle="collapse" type="button">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="index.php" class="navbar-brand">CTF云☁️</a>
+        </div>
+
+        <div class="navbar-collapse collapse nav2" aria-expanded="false" style="height: 0px">
+            <ul class="nav navbar-nav ul-head1">
+                <li class=""><a onclick="listFiles()">查看已上传的文件</a></li>
+                <li class=""><a onclick="reset()">重置</a></li>
+                <li class=""><a href="/dashboard/dependencies">去设置依赖</a></li>
+                <li class=""><a onclick="npmi()">编译（管理员专属）</a></li>
+
+            </ul>
+
+            <ul class="nav navbar-nav navbar-right ul-head2">
+                <li class=""><a href="/users/logout">退出登录</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<h1 id="typetitle" class="post-title poststyle" itemprop="name headline">Welcome to CTF云☁️</h1>
+<div class="container panel1">
+    <div class="row">
+        <div class="col-md-5">
+        </div>
+        <div class="col-md-15">
+            <div class="jumbotron pan">
+                <div class="form-group log">
+                    <form action="/dashboard/upload" method="post">
+                        <div class="input-group">
+                            <label class="input-group-addon" for="file">Upload</label>
+                            <input type="file" name="file" class="form-control" placeholder="请选择文件">
+                            <span class="input-group-btn">
+                                <button class="btn btn-default" type="submit">Submit</button>
+                            </span>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-15" id="filesdiv">
+
+        </div>
+    </div>
+</div>
+<script>
+    var typingbefore = document.getElementById("typetitle").innerText;//获取标题内容
+    document.getElementById('typetitle').innerText = "";//将标题内容赋值为空
+    var i = 0;
+    function typetitle(){
+        var typingafter = document.getElementById('typetitle');//获取标题元素
+        if(i <= typingbefore.length){
+            typingafter.innerHTML = typingbefore.slice(0,i++)+'|';//将标题内容通过slice()方法返回
+            setTimeout('typetitle()',100);//每100毫秒执行一次
+        }else{
+            typingafter.innerHTML = typingbefore;//当标题内容全部返回后，去掉最后的‘|’
+        }
+    }
+    typetitle();
+
+    function reset(){
+        var r = confirm("确定要重置吗？");
+        if (r == true) {
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', '/dashboard/reset', true);
+            xhr.send();
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    alert(JSON.parse(xhr.responseText).message);
+                }
+            }
+        }
+    }
+
+    function npmi(){
+        var r = confirm("确定要编译吗？");
+        if (r == true) {
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', '/dashboard/run', true);
+            xhr.send();
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    alert(JSON.parse(xhr.responseText).message);
+                }
+            }
+        }
+    }
+
+    function listFiles(){
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', '/dashboard/list', true);
+        xhr.send();
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState == 4 && xhr.status == 200) {
+                var files = JSON.parse(xhr.responseText).message;
+                if (files.length) {
+                    var html = `<div class="jumbotron pan">
+                <div class="form-group log">`;
+                    for(var i = 0; i < files.length; i++){
+                        html += files[i]+"<br>";
+                    }
+                    html += `
+                </div>
+            </div>`;
+                    document.getElementById("filesdiv").innerHTML = html;
+                }
+            }
+        }
+    }
+
+
+</script>
