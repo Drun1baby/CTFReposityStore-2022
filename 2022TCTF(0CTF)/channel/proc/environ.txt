@@ -1,6 +1,0 @@
-HTTP/1.1 200 OK
-content-type: text/html; charset=utf-8
-content-length: 120
-date: Sun, 18 Sep 2022 06:34:34 GMT
-
-HOSTNAME=channel

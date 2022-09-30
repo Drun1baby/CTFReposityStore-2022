@@ -1,7 +1,0 @@
-<jboss-deployment-structure>
-    <deployment>
-        <dependencies>
-            <module name="org.graalvm" export="true"/>
-        </dependencies>
-    </deployment>
-</jboss-deployment-structure>

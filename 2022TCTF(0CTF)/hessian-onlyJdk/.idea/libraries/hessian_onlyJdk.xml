@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="hessian-onlyJdk">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/hessian-onlyJdk.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

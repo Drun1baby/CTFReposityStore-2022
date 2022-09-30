@@ -148,9 +148,3 @@ else
 {
     highlight_file(__FILE__);
 }
-
-$temp = new Proc01();
-
-$c = base64_encode(serialize($temp));
-echo $c;
-unserialize(base64_decode($c));
