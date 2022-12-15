@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+        "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+    <constant name="struts.action.extension" value="do"></constant>
+    <constant name="struts.devMode" value="false" />
+
+    <package name="struts2" extends="struts-default">
+
+        <action name="index">
+            <result>/index.jsp</result>
+        </action>
+
+        <action name="flag" class="com.mycompany.helloworld.action.FlagAction">
+            <result>/WEB-INF/views/jsp/layouts/flag.jsp</result>
+        </action>
+
+    </package>
+
+</struts>

@@ -1,0 +1,1798 @@
+﻿Log file open, 11/27/22 11:01:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Display: Found Pak file ../../../flybenben/Content/Paks/flybenben-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../flybenben/Content/Paks/flybenben-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.045911
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for i386-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = true  - Libcurl will use HTTP proxy
+LogInit:  - HttpProxyAddress = '127.0.0.1:7890'
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (32-bit): Feb 24 2020 15:57:43
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/VanHurts/OneDrive - Trung Tâm Giáo Dục FeiFantastic/CTFReposityStore/2022/2022安洵杯/JumpKing/flybenben/Binaries/Win32/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.11.27-03.01.46:207][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.11.27-03.01.46:207][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../flybenben/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../flybenben/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.11.27-03.01.46:208][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../flybenben/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../flybenben/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.11.27-03.01.46:208][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.11.27-03.01.46:209][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.11.27-03.01.46:209][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.11.27-03.01.46:209][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../flybenben/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.11.27-03.01.46:215][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../flybenben/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.11.27-03.01.46:215][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.27-03.01.46:215][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.27-03.01.46:215][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../flybenben/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.11.27-03.01.46:215][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../flybenben/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../flybenben/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.27-03.01.46:216][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../flybenben/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../flybenben/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.27-03.01.46:217][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.27-03.01.46:218][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.27-03.01.46:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.27-03.01.46:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.11.27-03.01.46:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.27-03.01.46:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.27-03.01.46:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.27-03.01.46:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.11.27-03.01.46:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.27-03.01.46:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.11.27-03.01.46:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.27-03.01.46:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.27-03.01.46:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.27-03.01.46:218][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../flybenben/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.11.27-03.01.46:218][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.27-03.01.46:218][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.27-03.01.46:218][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../flybenben/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.11.27-03.01.46:218][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.11.27-03.01.46:218][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.11.27-03.01.46:218][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.11.27-03.01.46:218][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2022.11.27-03.01.46:218][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2022.11.27-03.01.46:221][  0]LogHAL: Display: Platform has ~ 16 GB [16978567168 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.27-03.01.46:221][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2022.11.27-03.01.46:221][  0]LogInit: Going up to parent DeviceProfile []
+[2022.11.27-03.01.46:221][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../flybenben/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../flybenben/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../flybenben/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../flybenben/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.27-03.01.46:221][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../flybenben/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../flybenben/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.27-03.01.46:222][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../flybenben/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../flybenben/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.11.27-03.01.46:223][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.27-03.01.46:223][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.11.27-03.01.46:224][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.11.27-03.01.46:224][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../flybenben/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.11.27-03.01.46:224][  0]LogInit: Computer: LAPTOP-MSG46JEP
+[2022.11.27-03.01.46:224][  0]LogInit: User: VanHurts
+[2022.11.27-03.01.46:224][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.11.27-03.01.46:224][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.27-03.01.46:224][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx) Virtual=4.0GB
+[2022.11.27-03.01.46:224][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2022.11.27-03.01.46:224][  0]LogMemory: Process Physical Memory: 50.45 MB used, 50.46 MB peak
+[2022.11.27-03.01.46:224][  0]LogMemory: Process Virtual Memory: 64.80 MB used, 64.80 MB peak
+[2022.11.27-03.01.46:224][  0]LogMemory: Physical Memory: 10479.07 MB used,  5712.95 MB free, 16192.02 MB total
+[2022.11.27-03.01.46:224][  0]LogMemory: Virtual Memory: 744.20 MB used,  3351.68 MB free, 4095.88 MB total
+[2022.11.27-03.01.46:236][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.27-03.01.46:296][  0]LogInit: Using OS detected language (zh-CN).
+[2022.11.27-03.01.46:296][  0]LogInit: Using OS detected locale (zh-CN).
+[2022.11.27-03.01.46:296][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+[2022.11.27-03.01.46:296][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+[2022.11.27-03.01.46:331][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.27-03.01.46:331][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.27-03.01.46:351][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.27-03.01.46:351][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.11.27-03.01.46:351][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.11.27-03.01.46:351][  0]LogD3D11RHI: D3D11 adapters:
+[2022.11.27-03.01.46:496][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2022.11.27-03.01.46:496][  0]LogD3D11RHI:       3072/0/1023 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.11.27-03.01.46:608][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.11.27-03.01.46:608][  0]LogD3D11RHI:       128/0/3967 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2022.11.27-03.01.46:610][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.11.27-03.01.46:610][  0]LogD3D11RHI:       0/0/4095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.11.27-03.01.46:610][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.11.27-03.01.46:620][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.11.27-03.01.46:620][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.27-03.01.46:620][  0]LogWindows: EnumDisplayDevices:
+[2022.11.27-03.01.46:620][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2022.11.27-03.01.46:621][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.11.27-03.01.46:621][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.11.27-03.01.46:622][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:1 D:1)
+[2022.11.27-03.01.46:622][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2022.11.27-03.01.46:623][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2022.11.27-03.01.46:623][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2022.11.27-03.01.46:623][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.11.27-03.01.46:623][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2022.11.27-03.01.46:623][  0]LogD3D11RHI:   Driver Version: 512.78 (internal:30.0.15.1278, unified:512.78)
+[2022.11.27-03.01.46:623][  0]LogD3D11RHI:      Driver Date: 5-5-2022
+[2022.11.27-03.01.46:624][  0]LogRHI: Texture pool is 716 MB (70% of 1024 MB)
+[2022.11.27-03.01.46:689][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.11.27-03.01.46:689][  0]LogD3D11RHI: Async texture creation enabled
+[2022.11.27-03.01.46:694][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2022.11.27-03.01.46:711][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.11.27-03.01.46:728][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.11.27-03.01.46:734][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.27-03.01.46:734][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.27-03.01.46:799][  0]LogInit: Using OS detected language (zh-CN).
+[2022.11.27-03.01.46:799][  0]LogInit: Using OS detected locale (zh-CN).
+[2022.11.27-03.01.46:799][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+[2022.11.27-03.01.46:799][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+[2022.11.27-03.01.46:800][  0]LogTextLocalizationManager: Compacting localization data took   0.39ms
+[2022.11.27-03.01.46:803][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2022.11.27-03.01.46:937][  0]LogStreaming: Display: Flushing async loaders.
+[2022.11.27-03.01.46:937][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 1 prioritized culture(s) in 0.000064 seconds
+[2022.11.27-03.01.46:937][  0]LogPakFile: New pak file ../../../flybenben/Content/Paks/flybenben-WindowsNoEditor.pak added to pak precacher.
+[2022.11.27-03.01.46:941][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2022.11.27-03.01.46:954][  0]LogNetVersion: flybenben 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1035355792)
+[2022.11.27-03.01.47:004][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.27-03.01.47:004][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.27-03.01.47:045][  0]LogMoviePlayer: Initializing movie player
+[2022.11.27-03.01.47:046][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.27-03.01.47:046][  0]LogOcInput: OculusInput pre-init called
+[2022.11.27-03.01.47:051][  0]LogUObjectArray: 41321 objects as part of root set at end of initial load.
+[2022.11.27-03.01.47:051][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2022.11.27-03.01.47:051][  0]LogUObjectAllocator: 4557524 out of 0 bytes used by permanent object pool.
+[2022.11.27-03.01.47:051][  0]LogUObjectArray: CloseDisregardForGC: 41321/41321 objects in disregard for GC pool
+[2022.11.27-03.01.47:053][  0]LogEngine: Initializing Engine...
+[2022.11.27-03.01.47:054][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.27-03.01.47:055][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.27-03.01.47:137][  0]LogPakFile: Precache HighWater 16MB
+
+[2022.11.27-03.01.47:137][  0]LogPakFile: Precache HighWater 32MB
+
+[2022.11.27-03.01.47:137][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.27-03.01.47:137][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-03.01.47:137][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-03.01.47:137][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-03.01.47:138][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-03.01.47:138][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.27-03.01.47:138][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.27-03.01.47:138][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.27-03.01.47:138][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-03.01.47:138][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.27-03.01.47:138][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.27-03.01.47:317][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.27-03.01.47:384][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.11.27-03.01.47:384][  0]LogAudioMixer: Display: Name: Speaker / Headphone (Realtek(R) Audio)
+[2022.11.27-03.01.47:384][  0]LogAudioMixer: Display: Is Default: Yes
+[2022.11.27-03.01.47:384][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2022.11.27-03.01.47:384][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2022.11.27-03.01.47:384][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2022.11.27-03.01.47:384][  0]LogAudioMixer: Display: Channel Order:
+[2022.11.27-03.01.47:384][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.27-03.01.47:384][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.11.27-03.01.48:848][  0]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2022.11.27-03.01.48:851][  0]LogInit: FAudioDevice initialized.
+[2022.11.27-03.01.48:851][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.27-03.01.48:851][  0]LogInit: Texture streaming: Enabled
+[2022.11.27-03.01.48:859][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-03.01.48:859][  0]LogInit: Display: Game Engine Initialized.
+[2022.11.27-03.01.48:860][  0]LogInit: Display: Starting Game.
+[2022.11.27-03.01.48:860][  0]LogNet: Browse: /Game/maps/FenShouXiangGu?Name=Player
+[2022.11.27-03.01.48:860][  0]LogLoad: LoadMap: /Game/maps/FenShouXiangGu?Name=Player
+[2022.11.27-03.01.48:861][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.11.27-03.01.48:862][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-03.01.48:863][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-03.01.48:867][  0]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.11.27-03.01.48:869][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.11.27-03.01.48:885][  0]LogAIModule: Creating AISystem for world FenShouXiangGu
+[2022.11.27-03.01.48:893][  0]LogLoad: Game class is 'BP_gamemode_C'
+[2022.11.27-03.01.48:895][  0]LogWorld: Bringing World /Game/maps/FenShouXiangGu.FenShouXiangGu up for play (max tick rate 0) at 2022.11.27-11.01.48
+[2022.11.27-03.01.48:896][  0]LogWorld: Bringing up level for play took: 0.001793
+[2022.11.27-03.01.48:901][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.48:901][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.48:901][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.48:901][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.48:901][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.48:902][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.48:902][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.48:902][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.48:902][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.48:902][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.48:902][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.48:902][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.48:902][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.48:902][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.48:902][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.48:903][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.48:903][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.48:903][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.48:903][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.48:903][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.48:903][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.48:903][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.48:903][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.48:903][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.48:904][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.48:904][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.48:904][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.48:904][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.48:904][  0]LogUMG: Display: Widget Class WBP_Restart_C - Loaded Fast Template.
+[2022.11.27-03.01.48:904][  0]LogLoad: Took 0.044007 seconds to LoadMap(/Game/maps/FenShouXiangGu)
+[2022.11.27-03.01.48:941][  0]LogRenderer: Reallocating scene render targets to support 2560x1080 Format 10 NumSamples 1 (Frame:1).
+[2022.11.27-03.01.48:941][  0]LogLoad: (Engine Initialization) Total time: 3.01 seconds
+[2022.11.27-03.01.48:980][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.27-03.01.49:655][  2]LogRenderer: Reallocating scene render targets to support 128x128 Format 10 NumSamples 1 (Frame:1).
+[2022.11.27-03.01.49:696][  2]LogRenderer: Reallocating scene render targets to support 2560x1080 Format 10 NumSamples 1 (Frame:2).
+[2022.11.27-03.01.51:475][247]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.51:475][247]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.51:475][247]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.51:475][247]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.51:475][247]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.51:475][247]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.51:476][247]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.51:476][247]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.54:380][693]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:387][694]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:394][695]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:400][696]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:406][697]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:413][698]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:419][699]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:426][700]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:432][701]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:438][702]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:444][703]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:452][704]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:458][705]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:465][706]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:470][707]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:477][708]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:484][709]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:490][710]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:496][711]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:502][712]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:509][713]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:516][714]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:521][715]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:528][716]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:534][717]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:541][718]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:547][719]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:554][720]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:560][721]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:567][722]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:573][723]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:579][724]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:586][725]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:592][726]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:599][727]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:605][728]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:612][729]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:618][730]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:624][731]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:631][732]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:637][733]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:644][734]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:650][735]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:657][736]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:663][737]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:669][738]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:676][739]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:682][740]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:689][741]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:695][742]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:701][743]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:708][744]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:714][745]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:721][746]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:727][747]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:733][748]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:739][749]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:746][750]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:753][751]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:759][752]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:765][753]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:772][754]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:777][755]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:785][756]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:791][757]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:797][758]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:803][759]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:810][760]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:816][761]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:823][762]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:829][763]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:835][764]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:841][765]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:848][766]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:855][767]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:861][768]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:867][769]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:874][770]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:879][771]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:887][772]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:892][773]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:900][774]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:906][775]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:912][776]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:919][777]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.01.54:925][778]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.54:925][778]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.54:925][778]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.54:925][778]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.54:925][778]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.54:925][778]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.54:925][778]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.54:926][778]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.54:926][778]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.54:926][778]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.54:926][778]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.54:926][778]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.54:926][778]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.54:926][778]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.54:926][778]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.54:926][778]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.54:926][778]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.54:926][778]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.54:926][778]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.54:926][778]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.54:926][778]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.54:927][778]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.54:927][778]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.54:927][778]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.54:927][778]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.54:927][778]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.54:927][778]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.54:927][778]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.54:927][778]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.54:927][778]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.54:927][778]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.54:927][778]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.58:264][291]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.58:264][291]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.58:264][291]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.58:264][291]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.58:264][291]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.58:264][291]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.58:264][291]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.58:264][291]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.58:758][367]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.58:758][367]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.58:758][367]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.58:758][367]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.58:758][367]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.58:758][367]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.58:758][367]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.58:759][367]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.59:305][450]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.59:305][450]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.59:305][450]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.59:305][450]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.59:306][450]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.59:306][450]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.59:306][450]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.59:306][450]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.59:962][551]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.59:962][551]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.59:962][551]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.59:962][551]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.59:962][551]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.59:962][551]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.01.59:962][551]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.01.59:962][551]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.00:444][625]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.00:444][625]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.00:444][625]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.00:444][625]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.00:444][625]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.00:444][625]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.00:444][625]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.00:444][625]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.02:775][982]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.02:775][982]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.02:775][982]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.02:775][982]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.02:776][982]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.02:776][982]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.02:776][982]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.02:776][982]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.03:243][ 54]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.03:243][ 54]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.03:243][ 54]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.03:244][ 54]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.03:244][ 54]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.03:244][ 54]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.03:244][ 54]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.03:244][ 54]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.04:190][199]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.04:190][199]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.04:190][199]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.04:190][199]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.04:190][199]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.04:190][199]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.04:190][199]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.04:190][199]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.04:687][275]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.04:687][275]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.04:687][275]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.04:687][275]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.04:687][275]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.04:687][275]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.04:687][275]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.04:687][275]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.06:201][507]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.06:201][507]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.06:201][507]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.06:201][507]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.06:201][507]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.06:201][507]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.06:201][507]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.06:202][507]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.06:652][576]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.06:652][576]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.06:652][576]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.06:652][576]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.06:652][576]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.06:652][576]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.06:652][576]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.06:652][576]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.07:117][647]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.07:117][647]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.07:117][647]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.07:117][647]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.07:117][647]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.07:117][647]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.07:117][647]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.07:117][647]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.07:591][720]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.07:591][720]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.07:591][720]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.07:592][720]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.07:592][720]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.07:592][720]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.07:592][720]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.07:592][720]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.08:245][820]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.08:245][820]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.08:245][820]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.08:245][820]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.08:246][820]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.08:246][820]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.08:246][820]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.08:246][820]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.10:240][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.10:240][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.10:240][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.10:240][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.10:240][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.10:240][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.10:240][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.10:240][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.10:836][216]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.10:836][216]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.10:836][216]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.10:836][216]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.10:836][216]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.10:837][216]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.10:837][216]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.10:837][216]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.13:082][559]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.13:082][559]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.13:082][559]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.13:082][559]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.13:082][559]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.13:082][559]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.13:082][559]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.13:083][559]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.13:576][634]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.13:576][634]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.13:576][634]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.13:576][634]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.13:577][634]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.13:577][634]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.13:577][634]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.13:577][634]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.14:141][720]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.14:141][720]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.14:141][720]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.14:141][720]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.14:141][720]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.14:141][720]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.14:141][720]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.14:141][720]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.14:778][817]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.14:778][817]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.14:778][817]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.14:778][817]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.14:778][817]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.14:778][817]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.14:778][817]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.14:779][817]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.16:124][ 22]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.16:124][ 22]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.16:124][ 22]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.16:124][ 22]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.16:124][ 22]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.16:124][ 22]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.16:124][ 22]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.16:124][ 22]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.16:900][140]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.16:900][140]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.16:900][140]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.16:900][140]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.16:901][140]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.16:901][140]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.16:901][140]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.16:901][140]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.18:628][403]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.18:628][403]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.18:629][403]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.18:629][403]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.18:629][403]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.18:629][403]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.18:629][403]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.18:629][403]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.19:420][524]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.19:420][524]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.19:420][524]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.19:420][524]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.19:421][524]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.19:421][524]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.19:421][524]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.19:421][524]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.19:991][609]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.19:991][609]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.19:991][609]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.19:991][609]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.19:991][609]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.19:991][609]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.19:991][609]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.19:991][609]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.21:689][867]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.21:689][867]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.21:689][867]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.21:689][867]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.21:689][867]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.21:689][867]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.21:689][867]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.21:689][867]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.22:347][967]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.22:347][967]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.22:347][967]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.22:347][967]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.22:348][967]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.22:348][967]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.22:348][967]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.22:348][967]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.22:845][ 43]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.22:845][ 43]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.22:845][ 43]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.22:845][ 43]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.22:846][ 43]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.22:846][ 43]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.22:846][ 43]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.22:846][ 43]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.25:610][463]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.25:611][463]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.25:611][463]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.25:611][463]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.25:611][463]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.25:611][463]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.25:611][463]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.25:611][463]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.26:204][553]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.26:204][553]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.26:204][553]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.26:204][553]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.26:204][553]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.26:204][553]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.26:204][553]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.26:204][553]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.26:795][643]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.26:795][643]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.26:795][643]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.26:795][643]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.26:795][643]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.26:796][643]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.26:796][643]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.26:796][643]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.27:295][719]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.27:296][719]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.27:296][719]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.27:296][719]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.27:297][719]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.27:297][719]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.27:297][719]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.27:297][719]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.29:563][ 63]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.29:563][ 63]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.29:563][ 63]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.29:563][ 63]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.29:564][ 63]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.29:564][ 63]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.29:564][ 63]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.29:564][ 63]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.30:036][135]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.30:036][135]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.30:036][135]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.30:036][135]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.30:036][135]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.30:037][135]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.30:037][135]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.30:037][135]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.30:526][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.30:526][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.30:526][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.30:527][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.30:527][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.30:527][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.30:527][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.30:527][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.34:303][782]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.34:303][782]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.34:303][782]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.34:303][782]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.34:304][782]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.34:304][782]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.34:304][782]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.34:304][782]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.36:444][107]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.36:444][107]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.36:444][107]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.36:444][107]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.36:445][107]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.36:445][107]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.36:445][107]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.36:445][107]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.36:933][181]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.36:933][181]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.36:933][181]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.36:933][181]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.36:933][181]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.36:933][181]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.36:934][181]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.36:934][181]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.42:598][ 41]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.42:598][ 41]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.42:598][ 41]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.42:598][ 41]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.42:598][ 41]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.42:598][ 41]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.42:598][ 41]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.42:598][ 41]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.45:280][447]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.45:280][447]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.45:280][447]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.45:280][447]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.45:280][447]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.45:280][447]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.45:280][447]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.45:280][447]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.47:070][718]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.47:070][718]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.47:070][718]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.47:070][718]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.47:070][718]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.47:070][718]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.47:070][718]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.47:070][718]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.47:814][831]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.47:814][831]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.47:815][831]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.47:815][831]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.47:815][831]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.47:815][831]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.47:815][831]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.47:815][831]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.50:410][225]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.50:410][225]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.50:410][225]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.50:410][225]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.50:411][225]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.50:411][225]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.50:411][225]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.50:411][225]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.52:161][490]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.52:161][490]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.52:161][490]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.52:161][490]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.52:162][490]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.52:162][490]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.52:162][490]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.52:162][490]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.52:657][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.52:657][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.52:657][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.52:657][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.52:658][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.52:658][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.52:658][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.52:658][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.54:862][899]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.54:862][899]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.54:862][899]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.54:863][899]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.54:863][899]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.54:863][899]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.54:863][899]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.54:863][899]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.55:543][  2]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.55:543][  2]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.55:543][  2]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.55:543][  2]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.55:544][  2]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.55:544][  2]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.55:544][  2]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.55:544][  2]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.55:981][ 68]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.55:981][ 68]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.55:981][ 68]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.55:981][ 68]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.55:981][ 68]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.55:982][ 68]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.55:982][ 68]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.55:982][ 68]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.56:619][164]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.56:619][164]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.56:619][164]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.56:619][164]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.56:619][164]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.56:620][164]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.56:620][164]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.56:620][164]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.57:969][368]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.57:969][368]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.57:969][368]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.57:969][368]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.57:969][368]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.57:969][368]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.57:969][368]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.57:969][368]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.58:443][438]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.58:443][438]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.58:443][438]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.58:443][438]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.58:443][438]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.58:443][438]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.58:443][438]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.58:443][438]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.59:073][533]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.59:073][533]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.59:073][533]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.59:073][533]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.59:073][533]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.59:073][533]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.59:073][533]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.59:073][533]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.59:509][599]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.59:509][599]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.59:509][599]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.59:509][599]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.59:510][599]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.59:510][599]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.02.59:510][599]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.02.59:510][599]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.00:153][696]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.00:153][696]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.00:153][696]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.00:153][696]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.00:153][696]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.00:153][696]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.00:153][696]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.00:153][696]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.01:456][893]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.01:456][893]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.01:456][893]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.01:456][893]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.01:456][893]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.01:456][893]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.01:456][893]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.01:456][893]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.02:217][  8]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.02:217][  8]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.02:217][  8]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.02:217][  8]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.02:217][  8]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.02:217][  8]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.02:217][  8]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.02:217][  8]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.04:796][398]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.04:796][398]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.04:796][398]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.04:796][398]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.04:797][398]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.04:797][398]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.04:797][398]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.04:797][398]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.06:038][585]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.06:038][585]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.06:038][585]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.06:038][585]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.06:039][585]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.06:039][585]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.06:039][585]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.06:039][585]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.06:517][657]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.06:517][657]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.06:517][657]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.06:517][657]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.06:517][657]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.06:517][657]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.06:517][657]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.06:517][657]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.08:898][ 16]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.08:898][ 16]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.08:898][ 16]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.08:898][ 16]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.08:899][ 16]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.08:899][ 16]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.08:899][ 16]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.08:899][ 16]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.09:657][130]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.09:657][130]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.09:657][130]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.09:657][130]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.09:657][130]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.09:657][130]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.09:657][130]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.09:657][130]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.11:452][401]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.11:452][401]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.11:452][401]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.11:452][401]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.11:453][401]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.11:453][401]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.11:453][401]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.11:453][401]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.13:378][692]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.13:378][692]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.13:378][692]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.13:378][692]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.13:379][692]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.13:379][692]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.13:379][692]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.13:379][692]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.14:137][807]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.14:137][807]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.14:137][807]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.14:137][807]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.14:137][807]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.14:137][807]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.14:137][807]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.14:137][807]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.14:986][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.14:986][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.14:986][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.14:986][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.14:987][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.14:987][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.14:987][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.14:987][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.15:483][ 10]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.15:483][ 10]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.15:483][ 10]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.15:483][ 10]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.15:484][ 10]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.15:484][ 10]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.15:484][ 10]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.15:484][ 10]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.18:259][429]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.18:259][429]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.18:259][429]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.18:259][429]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.18:260][429]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.18:260][429]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.18:260][429]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.18:260][429]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.20:211][724]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.20:211][724]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.20:211][724]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.20:211][724]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.20:211][724]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.20:211][724]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.20:211][724]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.20:212][724]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.20:978][840]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.20:978][840]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.20:978][840]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.20:978][840]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.20:978][840]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.20:978][840]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.20:978][840]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.20:978][840]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.36:337][122]LogCharacterMovement: BP_benben_C_2147482551 is stuck and failed to move! Velocity: X=14.23 Y=0.00 Z=0.00 Location: X=770.72 Y=0.00 Z=-49.45 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:BlockingVolume2 Component:BrushComponent0 BoneName:None (0 other events since notify)
+[2022.11.27-03.03.36:343][123]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:350][124]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:357][125]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:362][126]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:370][127]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:377][128]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:383][129]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:390][130]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:396][131]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:402][132]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:409][133]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:415][134]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:421][135]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:428][136]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:434][137]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:441][138]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:448][139]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:455][140]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:461][141]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:468][142]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:474][143]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:480][144]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:487][145]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:494][146]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:501][147]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:508][148]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:515][149]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:521][150]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:528][151]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:534][152]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:541][153]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:548][154]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:554][155]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:560][156]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:567][157]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:574][158]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:581][159]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:588][160]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:594][161]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:601][162]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:607][163]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:613][164]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:620][165]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:627][166]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:634][167]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:640][168]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:646][169]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:653][170]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:660][171]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:666][172]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:672][173]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:679][174]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:686][175]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:693][176]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:699][177]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:705][178]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:712][179]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:719][180]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:725][181]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:731][182]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:738][183]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:744][184]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:751][185]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:758][186]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:765][187]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:771][188]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:778][189]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:784][190]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:790][191]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:797][192]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:804][193]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:810][194]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:817][195]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:823][196]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:830][197]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:836][198]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:842][199]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:849][200]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:855][201]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:863][202]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:869][203]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:875][204]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:882][205]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:889][206]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:895][207]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:901][208]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:908][209]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:914][210]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:921][211]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:928][212]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:934][213]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:940][214]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:947][215]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:954][216]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:961][217]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:967][218]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:974][219]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:980][220]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:986][221]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.36:992][222]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:000][223]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:005][224]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:011][225]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:018][226]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:024][227]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:031][228]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:038][229]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:045][230]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:051][231]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:058][232]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:064][233]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:070][234]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:077][235]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:084][236]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:090][237]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:097][238]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:103][239]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:109][240]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:115][241]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:122][242]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:129][243]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:136][244]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:143][245]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:149][246]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:155][247]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:161][248]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:168][249]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:175][250]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:181][251]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:188][252]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:194][253]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:200][254]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:207][255]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:214][256]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:220][257]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:227][258]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:234][259]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:240][260]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:247][261]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:253][262]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:260][263]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:267][264]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:273][265]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:280][266]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:287][267]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:292][268]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:299][269]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:305][270]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:312][271]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:319][272]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:326][273]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:332][274]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:339][275]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:345][276]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:351][277]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:358][278]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:364][279]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:371][280]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:378][281]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:384][282]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:390][283]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:397][284]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:404][285]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:410][286]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:418][287]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:425][288]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:431][289]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:438][290]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:444][291]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:450][292]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:457][293]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:464][294]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:470][295]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:478][296]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:484][297]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:490][298]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:497][299]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:504][300]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:510][301]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:517][302]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:523][303]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:531][304]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:537][305]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:544][306]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:550][307]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:557][308]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:563][309]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:570][310]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:576][311]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:583][312]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:588][313]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:595][314]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:601][315]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:609][316]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:615][317]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:621][318]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:628][319]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:635][320]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:642][321]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:648][322]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:654][323]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:661][324]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:669][325]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:675][326]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:682][327]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:689][328]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:695][329]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:701][330]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:708][331]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:715][332]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:722][333]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:729][334]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:735][335]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:742][336]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:749][337]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:755][338]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:761][339]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:768][340]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:774][341]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:781][342]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:787][343]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:794][344]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:801][345]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:807][346]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:814][347]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:821][348]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:827][349]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:834][350]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:840][351]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:847][352]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:853][353]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:860][354]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:865][355]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:872][356]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:879][357]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:885][358]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:892][359]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:898][360]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:905][361]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:911][362]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:918][363]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:924][364]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:931][365]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:938][366]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:944][367]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:950][368]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:957][369]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:963][370]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:970][371]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:976][372]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:982][373]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:989][374]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.37:996][375]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:003][376]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:009][377]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:015][378]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:022][379]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:029][380]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:035][381]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:041][382]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:048][383]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:054][384]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:062][385]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:068][386]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:074][387]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:081][388]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:088][389]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:094][390]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:101][391]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:107][392]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:113][393]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:120][394]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:126][395]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:132][396]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:139][397]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:145][398]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:152][399]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:159][400]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:166][401]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:172][402]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:179][403]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:187][404]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:192][405]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:199][406]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:206][407]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:212][408]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:219][409]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:225][410]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:231][411]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:238][412]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:244][413]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:251][414]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:257][415]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:265][416]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:271][417]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:278][418]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:283][419]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:291][420]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:297][421]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:304][422]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:310][423]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:316][424]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:322][425]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:329][426]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:335][427]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:342][428]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:349][429]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:355][430]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:362][431]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:368][432]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:374][433]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:381][434]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:388][435]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:394][436]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:400][437]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:407][438]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:413][439]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:420][440]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:427][441]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.38:434][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.38:434][442]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.38:434][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.38:434][442]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.38:434][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.38:434][442]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.38:434][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.38:434][442]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.38:434][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.38:434][442]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.38:434][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.38:434][442]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.38:434][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.38:434][442]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.38:434][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.38:434][442]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.38:434][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.38:434][442]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.38:434][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.38:435][442]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.38:435][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.38:435][442]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.38:435][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.38:435][442]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.38:435][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.38:435][442]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.38:435][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.38:435][442]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.38:435][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.38:435][442]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.38:435][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2022.11.27-03.03.38:435][442]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.11.27-03.03.41:958][956]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.41:966][957]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.41:972][958]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.41:980][959]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.41:986][960]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.41:994][961]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:000][962]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:007][963]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:014][964]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:021][965]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:028][966]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:040][967]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:048][968]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:054][969]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:061][970]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:067][971]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:074][972]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:081][973]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:088][974]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:096][975]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:103][976]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:110][977]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:117][978]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:124][979]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:131][980]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:138][981]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:144][982]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:152][983]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:158][984]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:165][985]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:172][986]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:179][987]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:186][988]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:193][989]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:200][990]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:207][991]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:214][992]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:221][993]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:228][994]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:235][995]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:242][996]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:249][997]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:256][998]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:263][999]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:271][  0]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:277][  1]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:284][  2]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:291][  3]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:298][  4]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:305][  5]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:312][  6]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:319][  7]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:326][  8]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:333][  9]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:340][ 10]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:347][ 11]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:354][ 12]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:361][ 13]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:368][ 14]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:375][ 15]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:382][ 16]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:389][ 17]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:396][ 18]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:403][ 19]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:410][ 20]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:418][ 21]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:424][ 22]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:431][ 23]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:438][ 24]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:445][ 25]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:451][ 26]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:459][ 27]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:465][ 28]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:473][ 29]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:480][ 30]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:487][ 31]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:494][ 32]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:501][ 33]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:508][ 34]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:515][ 35]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:522][ 36]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:529][ 37]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:536][ 38]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:543][ 39]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:550][ 40]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:557][ 41]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:564][ 42]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:570][ 43]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:578][ 44]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:585][ 45]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:592][ 46]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:598][ 47]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:606][ 48]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:612][ 49]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:620][ 50]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:626][ 51]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:633][ 52]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:640][ 53]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:647][ 54]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:653][ 55]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:661][ 56]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:667][ 57]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:674][ 58]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:681][ 59]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:688][ 60]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:695][ 61]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:702][ 62]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:709][ 63]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:717][ 64]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:724][ 65]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:731][ 66]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:738][ 67]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:745][ 68]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:752][ 69]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:758][ 70]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:766][ 71]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:772][ 72]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:780][ 73]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.11.27-03.03.42:786][ 74]LogSlate: Request Window 'flybenben (32-bit Development PCD3D_SM5) ' being destroyed
+[2022.11.27-03.03.42:801][ 74]LogSlate: Window 'flybenben (32-bit Development PCD3D_SM5) ' being destroyed
+[2022.11.27-03.03.42:815][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-03.03.42:815][ 74]LogEngine: All Windows Closed
+[2022.11.27-03.03.42:815][ 74]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.11.27-03.03.42:815][ 74]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.11.27-03.03.42:816][ 75]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.11.27-03.03.42:835][ 75]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2022.11.27-03.03.42:855][ 75]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2022.11.27-03.03.42:880][ 75]LogInit: Display: PreExit Game.
+[2022.11.27-03.03.42:894][ 75]LogWorld: BeginTearingDown for /Game/maps/FenShouXiangGu
+[2022.11.27-03.03.42:895][ 75]LogWorld: UWorld::CleanupWorld for FenShouXiangGu, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-03.03.42:895][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-03.03.43:126][ 75]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.11.27-03.03.43:126][ 75]LogExit: Preparing to exit.
+[2022.11.27-03.03.43:126][ 75]LogMoviePlayer: Shutting down movie player
+[2022.11.27-03.03.43:129][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-03.03.43:130][ 75]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.11.27-03.03.43:131][ 75]LogExit: Game engine shut down
+[2022.11.27-03.03.43:161][ 75]LogExit: Object subsystem successfully closed.
+[2022.11.27-03.03.43:168][ 75]LogModuleManager: Shutting down and abandoning module AutomationController (226)
+[2022.11.27-03.03.43:168][ 75]LogModuleManager: Shutting down and abandoning module AutomationWorker (224)
+[2022.11.27-03.03.43:168][ 75]LogModuleManager: Shutting down and abandoning module Voice (222)
+[2022.11.27-03.03.43:168][ 75]LogModuleManager: Shutting down and abandoning module AIModule (220)
+[2022.11.27-03.03.43:168][ 75]LogModuleManager: Shutting down and abandoning module GameplayDebugger (219)
+[2022.11.27-03.03.43:168][ 75]LogModuleManager: Shutting down and abandoning module NavigationSystem (217)
+[2022.11.27-03.03.43:168][ 75]LogModuleManager: Shutting down and abandoning module OculusMR (214)
+[2022.11.27-03.03.43:168][ 75]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (212)
+[2022.11.27-03.03.43:168][ 75]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (210)
+[2022.11.27-03.03.43:168][ 75]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (208)
+[2022.11.27-03.03.43:169][ 75]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (206)
+[2022.11.27-03.03.43:169][ 75]LogModuleManager: Shutting down and abandoning module CharacterAI (204)
+[2022.11.27-03.03.43:169][ 75]LogModuleManager: Shutting down and abandoning module SessionServices (202)
+[2022.11.27-03.03.43:169][ 75]LogModuleManager: Shutting down and abandoning module LevelSequence (200)
+[2022.11.27-03.03.43:169][ 75]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (198)
+[2022.11.27-03.03.43:169][ 75]LogModuleManager: Shutting down and abandoning module MovieScene (196)
+[2022.11.27-03.03.43:169][ 75]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (194)
+[2022.11.27-03.03.43:169][ 75]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (192)
+[2022.11.27-03.03.43:169][ 75]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (190)
+[2022.11.27-03.03.43:170][ 75]LogModuleManager: Shutting down and abandoning module ProfilerService (188)
+[2022.11.27-03.03.43:294][ 75]LogModuleManager: Shutting down and abandoning module TaskGraph (186)
+[2022.11.27-03.03.43:294][ 75]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (184)
+[2022.11.27-03.03.43:294][ 75]LogModuleManager: Shutting down and abandoning module OculusInput (182)
+[2022.11.27-03.03.43:294][ 75]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (180)
+[2022.11.27-03.03.43:294][ 75]LogModuleManager: Shutting down and abandoning module EditableMesh (178)
+[2022.11.27-03.03.43:294][ 75]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (176)
+[2022.11.27-03.03.43:294][ 75]LogModuleManager: Shutting down and abandoning module CableComponent (174)
+[2022.11.27-03.03.43:294][ 75]LogModuleManager: Shutting down and abandoning module AudioCapture (172)
+[2022.11.27-03.03.43:294][ 75]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (171)
+[2022.11.27-03.03.43:294][ 75]LogModuleManager: Shutting down and abandoning module AssetTags (168)
+[2022.11.27-03.03.43:294][ 75]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (166)
+[2022.11.27-03.03.43:294][ 75]LogModuleManager: Shutting down and abandoning module AppleImageUtils (164)
+[2022.11.27-03.03.43:294][ 75]LogModuleManager: Shutting down and abandoning module AndroidPermission (162)
+[2022.11.27-03.03.43:294][ 75]LogModuleManager: Shutting down and abandoning module MediaCompositing (160)
+[2022.11.27-03.03.43:294][ 75]LogModuleManager: Shutting down and abandoning module ImgMedia (158)
+[2022.11.27-03.03.43:294][ 75]LogModuleManager: Shutting down and abandoning module BackChannel (156)
+[2022.11.27-03.03.43:295][ 75]LogModuleManager: Shutting down and abandoning module AutomationUtils (154)
+[2022.11.27-03.03.43:295][ 75]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (152)
+[2022.11.27-03.03.43:295][ 75]LogModuleManager: Shutting down and abandoning module GeometryCache (150)
+[2022.11.27-03.03.43:295][ 75]LogModuleManager: Shutting down and abandoning module UObjectPlugin (148)
+[2022.11.27-03.03.43:295][ 75]LogModuleManager: Shutting down and abandoning module flybenben (146)
+[2022.11.27-03.03.43:295][ 75]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (144)
+[2022.11.27-03.03.43:295][ 75]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (140)
+[2022.11.27-03.03.43:295][ 75]LogModuleManager: Shutting down and abandoning module ActorSequence (138)
+[2022.11.27-03.03.43:295][ 75]LogModuleManager: Shutting down and abandoning module UdpMessaging (136)
+[2022.11.27-03.03.43:295][ 75]LogModuleManager: Shutting down and abandoning module TcpMessaging (134)
+[2022.11.27-03.03.43:295][ 75]LogModuleManager: Shutting down and abandoning module FacialAnimation (132)
+[2022.11.27-03.03.43:295][ 75]LogModuleManager: Shutting down and abandoning module SignificanceManager (130)
+[2022.11.27-03.03.43:295][ 75]LogModuleManager: Shutting down and abandoning module AnimationSharing (128)
+[2022.11.27-03.03.43:295][ 75]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (126)
+[2022.11.27-03.03.43:295][ 75]LogModuleManager: Shutting down and abandoning module Paper2D (124)
+[2022.11.27-03.03.43:295][ 75]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (122)
+[2022.11.27-03.03.43:297][ 75]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (120)
+[2022.11.27-03.03.43:297][ 75]LogModuleManager: Shutting down and abandoning module PacketHandler (118)
+[2022.11.27-03.03.43:297][ 75]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (116)
+[2022.11.27-03.03.43:297][ 75]LogModuleManager: Shutting down and abandoning module MediaAssets (114)
+[2022.11.27-03.03.43:297][ 75]LogModuleManager: Shutting down and abandoning module Overlay (112)
+[2022.11.27-03.03.43:297][ 75]LogModuleManager: Shutting down and abandoning module FunctionalTesting (110)
+[2022.11.27-03.03.43:297][ 75]LogModuleManager: Shutting down and abandoning module MessageLog (108)
+[2022.11.27-03.03.43:298][ 75]LogModuleManager: Shutting down and abandoning module UMG (106)
+[2022.11.27-03.03.43:298][ 75]LogModuleManager: Shutting down and abandoning module SlateReflector (104)
+[2022.11.27-03.03.43:298][ 75]LogModuleManager: Shutting down and abandoning module Slate (102)
+[2022.11.27-03.03.43:298][ 75]LogModuleManager: Shutting down and abandoning module SlateCore (100)
+[2022.11.27-03.03.43:298][ 75]LogModuleManager: Shutting down and abandoning module MRMesh (98)
+[2022.11.27-03.03.43:298][ 75]LogModuleManager: Shutting down and abandoning module Messaging (96)
+[2022.11.27-03.03.43:298][ 75]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (94)
+[2022.11.27-03.03.43:298][ 75]LogModuleManager: Shutting down and abandoning module XAudio2 (92)
+[2022.11.27-03.03.43:298][ 75]LogModuleManager: Shutting down and abandoning module Networking (90)
+[2022.11.27-03.03.43:298][ 75]LogModuleManager: Shutting down and abandoning module Core (88)
+[2022.11.27-03.03.43:299][ 75]LogModuleManager: Shutting down and abandoning module ImageWrapper (84)
+[2022.11.27-03.03.43:299][ 75]LogModuleManager: Shutting down and abandoning module InputCore (82)
+[2022.11.27-03.03.43:299][ 75]LogModuleManager: Shutting down and abandoning module Settings (80)
+[2022.11.27-03.03.43:299][ 75]LogModuleManager: Shutting down and abandoning module PhysXCooking (78)
+[2022.11.27-03.03.43:299][ 75]LogModuleManager: Shutting down and abandoning module ChaosSolvers (76)
+[2022.11.27-03.03.43:299][ 75]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (75)
+[2022.11.27-03.03.43:299][ 75]LogModuleManager: Shutting down and abandoning module Chaos (72)
+[2022.11.27-03.03.43:299][ 75]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (70)
+[2022.11.27-03.03.43:299][ 75]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (69)
+[2022.11.27-03.03.43:299][ 75]LogModuleManager: Shutting down and abandoning module SteamVR (66)
+[2022.11.27-03.03.43:299][ 75]LogHMD: Freeing OpenVRDLLHandle.
+[2022.11.27-03.03.43:299][ 75]LogModuleManager: Shutting down and abandoning module OculusHMD (64)
+[2022.11.27-03.03.43:299][ 75]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (62)
+[2022.11.27-03.03.43:299][ 75]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (60)
+[2022.11.27-03.03.43:299][ 75]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (56)
+[2022.11.27-03.03.43:299][ 75]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2022.11.27-03.03.43:317][ 75]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2022.11.27-03.03.43:317][ 75]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2022.11.27-03.03.43:317][ 75]LogModuleManager: Shutting down and abandoning module Media (45)
+[2022.11.27-03.03.43:318][ 75]LogModuleManager: Shutting down and abandoning module VariantManagerContent (42)
+[2022.11.27-03.03.43:318][ 75]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2022.11.27-03.03.43:318][ 75]LogModuleManager: Shutting down and abandoning module AISupportModule (38)
+[2022.11.27-03.03.43:318][ 75]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (36)
+[2022.11.27-03.03.43:318][ 75]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (34)
+[2022.11.27-03.03.43:318][ 75]LogModuleManager: Shutting down and abandoning module PlatformCrypto (32)
+[2022.11.27-03.03.43:318][ 75]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.11.27-03.03.43:318][ 75]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.11.27-03.03.43:318][ 75]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.11.27-03.03.43:319][ 75]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.11.27-03.03.43:319][ 75]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.11.27-03.03.43:319][ 75]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.11.27-03.03.43:319][ 75]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.11.27-03.03.43:319][ 75]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.11.27-03.03.43:319][ 75]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.11.27-03.03.43:319][ 75]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.11.27-03.03.43:319][ 75]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.11.27-03.03.43:319][ 75]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.11.27-03.03.43:319][ 75]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.11.27-03.03.43:319][ 75]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.11.27-03.03.43:319][ 75]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.11.27-03.03.43:320][ 75]LogD3D11RHI: Shutdown
+[2022.11.27-03.03.43:320][ 75]LogD3D11RHI: CleanupD3DDevice
+[2022.11.27-03.03.43:324][ 75]LogExit: Exiting.
+[2022.11.27-03.03.43:330][ 75]Log file closed, 11/27/22 11:03:43

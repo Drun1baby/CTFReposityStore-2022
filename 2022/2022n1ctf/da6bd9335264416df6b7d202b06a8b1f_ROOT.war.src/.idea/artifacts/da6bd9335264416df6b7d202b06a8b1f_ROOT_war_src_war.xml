@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="da6bd9335264416df6b7d202b06a8b1f_ROOT.war.src:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/da6bd9335264416df6b7d202b06a8b1f_ROOT_war_src_war</output-path>
+    <root id="archive" name="da6bd9335264416df6b7d202b06a8b1f_ROOT.war.src_war.war">
+      <element id="artifact" artifact-name="da6bd9335264416df6b7d202b06a8b1f_ROOT.war.src:war exploded" />
+    </root>
+  </artifact>
+</component>
